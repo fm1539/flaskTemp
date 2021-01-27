@@ -5,7 +5,7 @@ Run this app by navigating to the directory where it is housed and running `flas
 
 ## Anatomy of the app<a id="anatomy"></a>
 
-Here's everything inside our Flask template. Files a first-time learner should pay attention to are listed in bold.
+Here's everything inside our Flask template.
 
 <pre>
 flaskproject
